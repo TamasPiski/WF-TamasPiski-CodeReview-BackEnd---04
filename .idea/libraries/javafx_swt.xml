@@ -19,6 +19,7 @@
       <root url="jar://$USER_HOME$/javafx-sdk-11.0.2/lib/src.zip!/javafx.media" />
       <root url="jar://$USER_HOME$/javafx-sdk-11.0.2/lib/src.zip!/javafx.swing" />
       <root url="jar://$USER_HOME$/javafx-sdk-11.0.2/lib/src.zip!/javafx.web" />
+      <root url="file://$PROJECT_DIR$/src" />
     </SOURCES>
   </library>
 </component>
